@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel/pause-amd64:v0.9.0-amd64
+FROM quay.io/coreos/flannel:v0.9.0-amd64
 
