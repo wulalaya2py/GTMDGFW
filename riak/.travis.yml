@@ -1,0 +1,13 @@
+sudo: required
+
+services:
+  - docker
+
+script:
+  - make bootstrap
+  - make test
+deploy:
+  provider: script
+  script: _scripts/deploy.sh
+  on:
+    branch: master

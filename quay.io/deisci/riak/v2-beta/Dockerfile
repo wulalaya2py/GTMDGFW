@@ -1,1 +1,0 @@
-FROM quay.io/deisci/riak:v2-beta
