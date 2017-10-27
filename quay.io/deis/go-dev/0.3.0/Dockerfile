@@ -1,0 +1,1 @@
+FROM quay.io/deis/go-dev:0.3.0
