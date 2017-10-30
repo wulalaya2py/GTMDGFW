@@ -1,1 +1,1 @@
-FROM basho/riak-ts:ubuntu-2.2.3
+FROM basho/riak-kv:ubuntu-2.2.3
