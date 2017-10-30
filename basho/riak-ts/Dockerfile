@@ -1,0 +1,1 @@
+FROM basho/riak-ts:ubuntu-2.2.3
