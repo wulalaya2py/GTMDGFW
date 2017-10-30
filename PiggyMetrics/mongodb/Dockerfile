@@ -1,1 +1,1 @@
-FROM sqshq/piggymetrics-monggodb
+FROM sqshq/piggymetrics-mongodb
