@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes_incubator/nfs-provisioner:v1.0.8
+FROM gcr.io/etcd-development/etcd:v2.0.0
